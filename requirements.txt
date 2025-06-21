@@ -1,0 +1,6 @@
+TTS==0.17.0  # Pinned to specific version for compatibility
+gradio>=4.0.0
+numpy>=1.20.0
+torch>=1.11.0
+python-dotenv>=1.0.0
+colorlog>=6.7.0
